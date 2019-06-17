@@ -1,0 +1,32 @@
+h3{
+    text-align: center;
+    color:red;
+}
+
+.container{
+    text-align: center;
+}
+
+h2{
+    margin-left: 50px;
+}
+
+#center{
+    border:solid;
+    border-color: black;
+}
+
+html,body{
+    height:100%;
+}
+
+body{
+    background-image: url("../images/njdevils.jpg");
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+    color: red;
+    
+}
