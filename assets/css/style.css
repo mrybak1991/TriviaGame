@@ -7,6 +7,13 @@ h3{
     text-align: center;
 }
 
+.jumbotron {
+    height: 500px;
+    background: none;
+    border: none;
+
+}
+
 h2{
     margin-left: 50px;
 }
@@ -29,4 +36,8 @@ body{
     background-color: #999;
     color: red;
     
+}
+
+.text-center {
+    margin: 0 auto;
 }
