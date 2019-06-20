@@ -114,7 +114,7 @@ $(document).ready(function() {
             $('#openScreen').show();
             $('#restartGame').on('click',startTrvia)
 
-            // $('#start').show();
+            
             
             
             
@@ -152,7 +152,6 @@ $(document).ready(function() {
 
 
     $('#remianingTime').hide();
-    // $('#openScreen').on('click', startTrvia);
     $(document).on('click', '.choices', validate);
     $('#start').on('click', startTrvia)
 });  
